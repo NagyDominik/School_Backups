@@ -1,0 +1,17 @@
+1. Control						X
+2. Self-Moving Paddle					X
+3. Spawn new paddle at edge				X
+4. Hit from above					X
+5. Style change						X
+6. Sound on hitting something + Game Over Sound		X
+7. Speed up for every 10 paddle hit			X
+8. Level counter for speed ups				X
+
+OPTIONAL TASKS
+1. Opening Screen				T	X
+2. Game Over Screen				A
+3. Different Autopaddles			D	X
+4. AI Paddle 					D
+5. 2 Score fields				?	
+6. AI return to middle				D
+7. Fun Stuff					?

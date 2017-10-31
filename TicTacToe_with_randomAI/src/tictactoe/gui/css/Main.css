@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-08-2016, 12:36:01
+    Author     : Stegger, Moravik
+*/
+
+.pane {
+    -fx-background-color:#000;
+}
+
+.buttons{
+    -fx-background-color: #000;
+    -fx-border-style: solid;
+    -fx-border-color: #fff;
+    -fx-border-width: 2px;
+    -fx-padding: 0px;
+   
+}
+
+
+#NewGameButton {
+    -fx-background-color: #fff;
+}
